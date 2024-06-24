@@ -1,0 +1,6 @@
+venv/
+.venv/
+.idea/
+.env
+rasa_server/models/*
+rasa_server/.rasa/*
